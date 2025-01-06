@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPeryf_lab5_kamery_v2", "UPeryf_lab5_kamery_v2.csproj", "{97C20DB9-184C-4FFE-9E31-DFC7F0008B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C20DB9-184C-4FFE-9E31-DFC7F0008B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C20DB9-184C-4FFE-9E31-DFC7F0008B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C20DB9-184C-4FFE-9E31-DFC7F0008B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C20DB9-184C-4FFE-9E31-DFC7F0008B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA99851-69E1-4DFF-A36F-026A5D3A4954}
+	EndGlobalSection
+EndGlobal
